@@ -1,5 +1,6 @@
 # CRM
 Application web développée avec Laravel pour la gestion des clients, commandes et stock.
+
 ⚙️ Installation
 git clone https://github.com/nadahouasli/CRM.git
 cd CRM
